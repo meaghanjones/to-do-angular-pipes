@@ -5,14 +5,7 @@
 ## Description
 A to-do app that includes a form so that a user can create new tasks, categorizing them as home, hobby or work. Also, lists out all current tasks in the browser.
 
-## Prerequisites
-
-### Git
-
-- A good place to learn about setting up git is [here][git-setup].
-- You can find documentation and download git [here][git-home].
-
-##Setup 
+## Setup 
 
 Steps when beginning a new project, or cloning an existing one:
 1. Run npm install and bower install to install dependencies.
@@ -31,21 +24,6 @@ any time we need a front-end dependency we can add it using
 ```
 $ bower install packagename --save
 ```
-SETUP NOTES //////////////////////
-
-/*
-- clone repo
-- npm install
-- bower install
-- install globals if needed (gulp, bower, sass, typescript, typescript packages.)
-  - npm install gulp -g
-  - npm install bower -g
-  - gem install sass
-  - npm install typescript -g
-  - apm install atom-typescript
-- gulp build
-- gulp serve
-*/
 
 ### License
 
